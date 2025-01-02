@@ -69,7 +69,7 @@ The YouTube Global Statistics Dashboard captures key metrics about YouTube chann
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/SahirHussain99/EXCEL_PROJECT_YOUTUBE
+   git clone https://github.com/SahirHussain99/YouTube-Global-Statistics-Dashboard
    ```
 
 2. **Open the Dashboard**:
