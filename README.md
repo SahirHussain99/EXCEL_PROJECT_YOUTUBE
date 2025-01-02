@@ -1,4 +1,3 @@
-# EXCEL_PROJECT_YOUTUBE
 ### YouTube Global Statistics Dashboard
 
 
